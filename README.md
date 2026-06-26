@@ -2,6 +2,21 @@
 
 <h1>Nexpay</h1>
 
+## 🚀 Live Demo
+
+### 👤 User Portal
+https://nexentora.com/nexpay/pay
+
+### 🔐 Admin Panel
+https://nexentora.com/nexpay/admin_login
+
+### Demo Credentials
+
+| Role | Username | Password |
+|------|----------|----------|
+| Admin | admin | 1234 |
+
+> **Note:** This is a demo/testing environment. The credentials above are intended for evaluation purposes only.
 <h3>Modern Manual UPI Payment Gateway</h3>
 
 <p>
